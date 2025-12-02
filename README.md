@@ -1,7 +1,7 @@
 # 🐘 PHP Learning Journey
 
 Welcome to my PHP learning repository!  
-This repo contains my daily practice code, small examples, and mini-tasks as I learn PHP step-by-step.
+This repo contains my practice code, small examples, and mini-tasks as I learn PHP step-by-step.
 
 ## 📌 Purpose
 - Build strong PHP fundamentals  
